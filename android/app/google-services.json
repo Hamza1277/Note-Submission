@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469733640248",
+    "project_id": "hamza-notes-dbb7c",
+    "storage_bucket": "hamza-notes-dbb7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469733640248:android:a8a70d30c3d07788e83ecd",
+        "android_client_info": {
+          "package_name": "com.example.hamzanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469733640248-n4h1eq2163n0v449mrerq2vbe4nha019.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM9jWJCrgBRBKbYbKn_v0dWWqkkIhQ_nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469733640248-n4h1eq2163n0v449mrerq2vbe4nha019.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
